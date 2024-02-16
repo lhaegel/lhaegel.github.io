@@ -618,6 +618,7 @@ footer.sticky-bottom {
     &:hover {
       .card-title {
         color: var(--global-theme-color);
+        display: block;
       }
     }
   }
