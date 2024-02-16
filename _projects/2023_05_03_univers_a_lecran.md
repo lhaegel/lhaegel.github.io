@@ -7,3 +7,12 @@ redirect: https://universalecranxxi.wordpress.com/
 importance: 1
 category: 
 ---
+
+{% include _links_library.md %}
+
+<script type="text/javascript">
+ function showhide(id) {
+    var e = document.getElementById(id);
+    e.style.display = (e.style.display == 'block') ? 'none' : 'block';
+ }
+</script> 
