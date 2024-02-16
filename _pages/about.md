@@ -24,6 +24,11 @@ My field of research is particle physics, and how the properties of fundamental 
 
 I am specialised in neutrinos, the most elusive and mysterious of all the fundamental particles.
 I am a member of the [DUNE collaboration](https://www.dunescience.org/) in which we build large-scale liquid argon detectors to study neutrino oscillations. 
+#In particular, I am interested in the following question: 
+#- is there CP violation in the leptonic sector and if yes, is it linked to the abundance of matter over antimatter in the Universe? 
+#- can we measure the neutrino mixing matrix unitarity and get insights on the number of generations in the Standard Model? 
+#- how well can we detect little-observed tau neutrinos, and how can they help answer the question above? 
+#- how well can we reconstruct neutrino properties in our detector to answer all those questions?  
 
 More details about my research are available on my [publications](https://inspirehep.net/authors/1348388).
 
