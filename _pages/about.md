@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, I am Leïla Haegel, a researcher in particle physics at the [Institute of Physics of the 2 Infinities](https://www.ip2i.in2p3.fr/?lang=en) of Lyon, France.
+Hi, I am Leïla Haegel, a researcher at the [Institute of Physics of the 2 Infinities](https://www.ip2i.in2p3.fr/?lang=en) of Lyon, France.
 
 My field of research is particle physics, and how the properties of fundamental constituents of matter give us indications about the laws of nature and the content of the Universe.
 
