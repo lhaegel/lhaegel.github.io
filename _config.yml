@@ -124,7 +124,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: #Leïla Haegel #al-folio # blog_name will be displayed in your blog page
-blog_description: #Physics, particles, neutrinos, and art
+blog_description: words are bring written
 permalink: /blog/:year/:title/
 
 # Pagination
