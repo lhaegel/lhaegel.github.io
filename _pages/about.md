@@ -1,6 +1,6 @@
 ---
 layout: about
-title: research
+title: science
 permalink: /
 subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -22,7 +22,7 @@ I am a researcher at the [Institute of Physics of the 2 Infinities](https://www.
 
 My field of research is particle physics, and how the properties of fundamental constituents of matter give us indications about the laws of nature and the content of the Universe.
 
-I am specialised in neutrinos, the most elusive and mysterious of all the fundamental particles.
+I currently study neutrinos, the most elusive and mysterious of all the fundamental particles.
 I am a member of the [DUNE collaboration](https://www.dunescience.org/) in which we build large-scale liquid argon detectors to study neutrino oscillations. 
 
 More details about my research are available on my [publications](https://inspirehep.net/authors/1348388).
