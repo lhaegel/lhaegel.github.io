@@ -27,4 +27,4 @@ I am a member of the [DUNE collaboration](https://www.dunescience.org/) in which
 
 More details about my research are available on my [publications](https://inspirehep.net/authors/1348388).
 
-For collaboration, internship, thesis or postdoctoral position, please [contact me via e-mail](https://annuaire.in2p3.fr/6470-11492/leila-haegel).
+For question, collaboration, internship, thesis or postdoctoral position, please [contact me via e-mail](https://annuaire.in2p3.fr/6470-11492/leila-haegel).
