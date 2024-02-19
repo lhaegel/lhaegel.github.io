@@ -174,10 +174,10 @@ ul.task-list input[type="checkbox"] {
 
   .card-item {
     width: auto;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 
     .row {
-      display: inline-block;
+      display: flex;
       align-items: center;
     }
   }
@@ -633,7 +633,7 @@ footer.sticky-bottom {
     margin-bottom: 0px;
 
     .row {
-      display: inline-block;
+      display: flex;
       align-items: center;
     }
   }
