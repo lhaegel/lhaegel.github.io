@@ -630,7 +630,6 @@ footer.sticky-bottom {
 
   .card-item {
     width: auto;
-    margin-bottom: 0px;
 
     .row {
       display: flex;
@@ -641,7 +640,7 @@ footer.sticky-bottom {
   .grid-sizer,
   .grid-item {
     width: 250px;
-    margin-bottom: 0px;
+    height: 250px;
   }
 
   h2.category {
