@@ -174,9 +174,10 @@ ul.task-list input[type="checkbox"] {
 
   .card-item {
     width: auto;
+    margin-bottom: 0px;
 
     .row {
-      display: block;
+      display: flex;
       align-items: center;
     }
   }
@@ -214,6 +215,18 @@ ul.task-list input[type="checkbox"] {
   margin-right: 1rem;
 }
 
+@media (min-width: 576px) {
+  .profile {
+    width: 30%;
+
+    .address {
+      p {
+        display: block;
+      }
+    }
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
@@ -227,20 +240,6 @@ ul.task-list input[type="checkbox"] {
     }
   }
 }
-
-@media (min-width: 576px) {
-  .profile {
-    width: 30%;
-
-    .address {
-      p {
-        display: block;
-      }
-    }
-  }
-}
-
-
 
 // Navbar customization
 
@@ -631,9 +630,10 @@ footer.sticky-bottom {
 
   .card-item {
     width: auto;
+    margin-bottom: 0px;
 
     .row {
-      display: block;
+      display: flex;
       align-items: center;
     }
   }
@@ -641,14 +641,15 @@ footer.sticky-bottom {
   .grid-sizer,
   .grid-item {
     width: 250px;
+    margin-bottom: 0px;
   }
 
   h2.category {
     color: var(--global-divider-color);
-    border-bottom: 0px solid var(--global-divider-color);
-    padding-top: 0.rem;
-    margin-top: 0rem;
-    margin-bottom: 0rem;
+    border-bottom: 1px solid var(--global-divider-color);
+    padding-top: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
     text-align: right;
   }
 }
