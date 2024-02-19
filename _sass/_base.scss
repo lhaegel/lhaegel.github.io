@@ -177,7 +177,6 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 0px;
 
     .row {
-      display: block;
       align-items: center;
     }
   }
@@ -633,7 +632,6 @@ footer.sticky-bottom {
     margin-bottom: 0px;
 
     .row {
-      display: block;
       align-items: center;
     }
   }
@@ -646,10 +644,10 @@ footer.sticky-bottom {
 
   h2.category {
     color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    border-bottom: 0px solid var(--global-divider-color);
+    padding-top: 0.rem;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
     text-align: right;
   }
 }
