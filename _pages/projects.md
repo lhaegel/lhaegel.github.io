@@ -6,7 +6,7 @@ description: The beauty of art with its interesection with science is its abilit
 nav: true
 nav_order: 1
 display_categories: #[work, fun]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
