@@ -177,8 +177,8 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 0px;
 
     .row {
-      display: flex;
-      align-items: center;
+      display: block;
+      align-items: bottom;
     }
   }
 }

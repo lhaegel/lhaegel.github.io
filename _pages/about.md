@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a researcher at the [Institute of Physics of the 2 Infinities](https://www.ip2i.in2p3.fr/?lang=en) of Lyon, France.
 
-My field of research is particle physics, and how the properties of fundamental constituents of matter give us indications about the laws of Nature and the content of the Universe.
+My field of research is particle physics, and how the properties of fundamental constituents of matter give us indications about the laws of nature and the content of the universe.
 
 I currently study neutrinos, the most elusive and mysterious of all the fundamental particles.
 I am a member of the [DUNE collaboration](https://www.dunescience.org/) in which we build large-scale liquid argon detectors to study neutrino oscillations. 
