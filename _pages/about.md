@@ -27,6 +27,6 @@ I am a member of the [DUNE collaboration](https://www.dunescience.org/) in which
 
 More details about my research are available on my [publications](https://inspirehep.net/authors/1348388).
 
-Beyond the academic tribe, I am interested in making science diffuse through society through projects at the intersection with [arts](https://lhaegel.github.io/art/). 
+I make science permeate beyond the lab with projects at the intersection of [art and science](https://lhaegel.github.io/art/).
 
 For collaboration, internship, thesis or postdoctoral position, please [contact me via e-mail](https://annuaire.in2p3.fr/6470-11492/leila-haegel).
