@@ -30,3 +30,17 @@ More details about my research are available on my [publications](https://inspir
 I make science permeate beyond the lab with projects at the intersection of [art and science](https://lhaegel.github.io/art/).
 
 For collaboration, internship, thesis or postdoctoral position, please [contact me via e-mail](https://annuaire.in2p3.fr/6470-11492/leila-haegel).
+
+
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=doscNjVyznw" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=9ev0VL5wb0A" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/watch?v=hvnmNhBzLWg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
