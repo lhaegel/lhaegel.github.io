@@ -12,7 +12,7 @@ profile:
     <p>Inside the DUNE detector [credit: CERN]</p>
     <p></p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -31,7 +31,6 @@ I make science permeate beyond the lab with projects at the intersection of [art
 
 For collaboration, internship, thesis or postdoctoral position, please [contact me via e-mail](https://annuaire.in2p3.fr/6470-11492/leila-haegel).
 
-<h4>{{ Videos: }}</h4>
 
 <div class="row mt-3">
     <div class="col-sm-2 mt-3 mt-md-0">
