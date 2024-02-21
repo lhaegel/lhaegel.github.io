@@ -33,13 +33,13 @@ For collaboration, internship, thesis or postdoctoral position, please [contact 
 
 
 <div class="row mt-3">
-    <div class="col-sm-2 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/doscNjVyznw?si=L9y4mAPJ4zeOAkbR" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-2 mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/9ev0VL5wb0A?si=LP4jI-D-Bl3DwiYk class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/9ev0VL5wb0A?si=LP4jI-D-Bl3DwiYk" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-2 mt-3 mt-md-0">
-        {% include video.liquid path="https://www.youtube.com/embed/hvnmNhBzLWg?si=2A6k9pqRX99Fuvlu class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="https://www.youtube.com/embed/hvnmNhBzLWg?si=2A6k9pqRX99Fuvlu" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
