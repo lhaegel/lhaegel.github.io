@@ -31,4 +31,6 @@ I make science permeate beyond the lab with projects at the intersection of [art
 
 For collaboration, internship, thesis or postdoctoral position, please [contact me via e-mail](https://annuaire.in2p3.fr/6470-11492/leila-haegel).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/doscNjVyznw?si=CH_a8wZcY5VaC-xe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="250" height="140" src="https://www.youtube.com/embed/doscNjVyznw?si=CH_a8wZcY5VaC-xe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="250" height="140" src="https://www.youtube.com/embed/9ev0VL5wb0A?si=un054ZMR7REFols0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="250" height="140" src="https://www.youtube.com/embed/hvnmNhBzLWg?si=h1qLAzLCtX43QqRr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
