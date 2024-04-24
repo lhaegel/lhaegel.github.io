@@ -32,7 +32,7 @@ I make science permeate beyond the lab with projects at the intersection of [art
 For collaboration, internship, thesis or postdoctoral position, please [contact me via e-mail](https://annuaire.in2p3.fr/6470-11492/leila-haegel).
 
 
-MORE ABOUT MY RESEARCH:
+<h2> more about my research  </h2>
 
 <iframe width="250" height="140" src="https://www.youtube.com/embed/doscNjVyznw?si=CH_a8wZcY5VaC-xe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe width="250" height="140" src="https://www.youtube.com/embed/9ev0VL5wb0A?si=un054ZMR7REFols0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
