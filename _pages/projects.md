@@ -2,7 +2,7 @@
 layout: page
 title: art
 permalink: /art/
-description: The beauty of art with its interesection with science is its ability to make the logical sensorial. Below are a selection of projects I participated to (click on the images to know more).
+description: The beauty of art with its interesection with science is its ability to make the logical sensorial. Below are a selection of projects I participated to [click on the images to know more].
 nav: true
 nav_order: 1
 display_categories: #[work, fun]
