@@ -4,6 +4,6 @@ title:
 description:  
 img: assets/img/2021_pccp_artists_residency_apc.png
 redirect: https://www.pariscosmo.fr/en/science-and-society/art-fellowship/
-importance: 4
+importance: 5
 category: 
 ---
