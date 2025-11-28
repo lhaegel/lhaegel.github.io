@@ -6,7 +6,7 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: leilahaegel_cracksofreality.jpeg
+  image: leilahaegel_cracksofreality2.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Sitting in the cracks of reality</p>
