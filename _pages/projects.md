@@ -2,7 +2,7 @@
 layout: page
 title: art
 permalink: /art/
-description: The beauty of art interesecting with science is the ability to throw bridges between the logical and the sensorial. <br> Below are a selection of projects I participated to [click on the images to know more].
+description: The beauty of art interesecting with science is the ability to throw bridges between the logical and the sensorial. <br> Below are a selection of projects I participated to.  <br>  [click on the images to know more]
 nav: true
 nav_order: 1
 display_categories: #[work, fun]
