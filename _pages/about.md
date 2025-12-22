@@ -9,7 +9,7 @@ profile:
   image: leilahaegel_cracksofreality2.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Sitting in the cracks of reality</p>
+    <p>Sitting on the cracks of reality</p>
     <p></p>
 
 news: true # includes a list of news items
