@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a researcher at the [Institute of Physics of the 2 Infinities](https://www.ip2i.in2p3.fr/teams/manoir/?lang=en) of Lyon, France.
+I am a researcher at the [Institute of Physics of the 2 Infinities of Lyon](https://www.ip2i.in2p3.fr/teams/manoir/?lang=en), France.
 
 My field of research is particle physics, and how the properties of fundamental constituents of matter give us indications about the laws of Nature and the content of the Universe. I focus on studying neutrinos, the most elusive and mysterious of all the fundamental particles. I am currently working on the [Ricochet experiment](https://www.in2p3.cnrs.fr/fr/cnrsinfo/ricochet-se-lance-dans-la-course-letude-de-linteraction-neutrinonoyau), that aims at observing the very low energy interaction process of coherent elastic neutrino-nucleus scattering with cryogenic detectors. 
 
