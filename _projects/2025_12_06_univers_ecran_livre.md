@@ -3,7 +3,7 @@ layout: page
 title:  
 description: 
 img: assets/img/2025_12_06_universalecran_livre.png
-redirect: https://universalecranxxi.wordpress.com/livre-lunivers-a-lecran-au-xxieme-siecle/
+redirect: https://presses-universitaires.univ-amu.fr/fr/actualites/lunivers-lecran-xxie-siecle
 importance: 1
 category: 
 ---
