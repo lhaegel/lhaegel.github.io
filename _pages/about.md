@@ -27,5 +27,5 @@ A brief resume is available [here](https://lhaegel.github.io/assets/pdf/2024_cv_
 
 I make science permeate beyond the lab with projects at the intersection of [art and science](https://lhaegel.github.io/art/).
 
-For collaborations, internships, theses or postdoctoral positions, please [contact me via e-mail](https://annuaire.in2p3.fr/6470-11492/leila-haegel).
+For collaborations, internships, theses or postdoctoral positions, please [contact me via e-mail](https://www.in2p3.cnrs.fr/fr/personne/leila-haegel).
 
