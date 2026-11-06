@@ -124,8 +124,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: #Leïla Haegel #al-folio # blog_name will be displayed in your blog page
-blog_description: words are bring written
-permalink: /blog/:year/:title/
+blog_description: #words are bring written
+permalink: /words/:year/:title/
 
 # Pagination
 pagination:
@@ -144,7 +144,7 @@ giscus:
   category_id: # leave empty or specify your category_id (see https://giscus.app/)
   mapping: title # identify discussions by post title
   strict: 1 # use strict identification mode
-  reactions_enabled: 1 # enable (1) or disable (0) emoji reactions
+  reactions_enabled: 0 # enable (1) or disable (0) emoji reactions
   input_position: bottom # whether to display input form below (bottom) or above (top) the comments
   theme: preferred_color_scheme # name of the color scheme (preferred works well with al-folio light/dark mode)
   emit_metadata: 0
@@ -271,9 +271,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: "/blog/:year/"
-    tag: "/blog/tag/:name/"
-    category: "/blog/category/:name/"
+    year: "/words/:year/"
+    tag: "/words/tag/:name/"
+    category: "/words/category/:name/"
 
 display_tags: #["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
 display_categories: #["blockquotes"] # these categories will be displayed on the front page of your blog
