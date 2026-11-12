@@ -125,7 +125,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: #Leïla Haegel #al-folio # blog_name will be displayed in your blog page
 blog_description: #words are bring written
-permalink: /words/:year/:title/
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
@@ -271,9 +271,9 @@ jekyll-archives:
     tag: archive-tag
     category: archive-category
   permalinks:
-    year: "/words/:year/"
-    tag: "/words/tag/:name/"
-    category: "/words/category/:name/"
+    year: "/blog/:year/"
+    tag: "/blog/tag/:name/"
+    category: "/blog/category/:name/"
 
 display_tags: #["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
 display_categories: #["blockquotes"] # these categories will be displayed on the front page of your blog
