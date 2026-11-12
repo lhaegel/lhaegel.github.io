@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /words/
-title: words
+permalink: /blog/
+title: blog
 nav: true
 nav_order: 2
 pagination:
