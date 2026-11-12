@@ -124,8 +124,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: words #Leïla Haegel #al-folio # blog_name will be displayed in your blog page
-blog_description: more words #words are bring written
-permalink: /blog/:year/:title/
+blog_description: #words are bring written
+permalink: /words/:year/:title/
 
 # Pagination
 pagination:
